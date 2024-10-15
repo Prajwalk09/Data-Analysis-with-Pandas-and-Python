@@ -6,7 +6,6 @@ This project contains comprehensive resources and code examples that cover vario
 
 This repository is structured into several folders, each focusing on a different topic in Pandas. These topics range from basic DataFrame manipulation to advanced techniques like multi-indexing, merging, and visualizations.
 
-### Folder Structure
 
 ### Folder Structure
 
