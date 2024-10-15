@@ -1,6 +1,6 @@
 # Data Analysis with Pandas and Python
 
-Welcome to the **Data Analysis with Pandas and Python** repository! This project contains comprehensive resources and code examples that cover various aspects of data analysis using **Pandas**, the popular Python library.
+This project contains comprehensive resources and code examples that cover various aspects of data analysis using **Pandas**, the popular Python library.
 
 ## Repository Overview
 
