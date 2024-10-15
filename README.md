@@ -22,6 +22,7 @@ This repository is structured into several folders, each focusing on a different
 10. **[Working with Dates and Times in Datasets](https://github.com/Prajwalk09/Data-Analysis-with-Pandas-and-Python/tree/main/Date%20and%20Time)** : Handling date and time data, including parsing and time-based indexing.
 11. **[Input and Output in Pandas](https://github.com/Prajwalk09/Data-Analysis-with-Pandas-and-Python/tree/main/Input%20and%20Output%20in%20Pandas)** : Reading data from files (CSV, Excel) and saving outputs.
 12. **[Visualizations](https://github.com/Prajwalk09/Data-Analysis-with-Pandas-and-Python/tree/main/Visualizations)** : Creating plots and charts to visualize data.
+13. **[Pandas Options and Settings](https://github.com/Prajwalk09/Data-Analysis-with-Pandas-and-Python/tree/main/Pandas%20Options%20and%20Settings)** : Configuring Pandas display settings like precision, max rows/columns, and more to control the output format.
 
 ## Prerequisites
 
